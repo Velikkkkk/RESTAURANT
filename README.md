@@ -1,2 +1,6 @@
 # RESTAURANT
-real restaurant
+- int waitTime
+- double rating
+- double avgPrice
+- double distance
+- String hoursOpen
